@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0efb3c24-7117-4703-8114-5d5357df28bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NNbUMfhU9n7wQIJ1SYF5m0ZH5E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/header" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\сайт-для-олимпиады\src\images\header" />
+      <recent name="C:\Users\User\Desktop\сайт-для-олимпиады\src\images\free" />
+      <recent name="C:\Users\User\Desktop\сайт-для-олимпиады\src\images\fitness" />
+      <recent name="C:\Users\User\Desktop\сайт-для-олимпиады\src\images\tips" />
+      <recent name="C:\Users\User\Desktop\сайт-для-олимпиады\src\libs\jquery" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\сайт-для-олимпиады\src\images\fitness" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0efb3c24-7117-4703-8114-5d5357df28bd" name="Default Changelist" comment="" />
+      <created>1679507501832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679507501832</updated>
+      <workItem from="1679507506176" duration="6619000" />
+      <workItem from="1679551067917" duration="4698000" />
+      <workItem from="1679562259206" duration="4000" />
+      <workItem from="1679562474007" duration="4427000" />
+      <workItem from="1679567159489" duration="643000" />
+      <workItem from="1679631265721" duration="1175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1679553915987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1679553915987" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1679567080868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1679567080868" />
+  </component>
+</project>
